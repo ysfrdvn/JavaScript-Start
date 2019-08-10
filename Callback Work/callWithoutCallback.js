@@ -15,6 +15,6 @@ function third(){
     console.log("third is done");
 }
 
-first();
-second();
-third();
+first();  // done 3
+second(); // done 2
+third(); // done 1
