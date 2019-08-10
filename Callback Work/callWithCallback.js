@@ -19,4 +19,4 @@ function third(){
     console.log("third is done");
 }
 
-first(second);
+first(second); // firt is done 1 , second is done 2 , third is done 3.  
